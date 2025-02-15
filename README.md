@@ -1,4 +1,3 @@
-# motioncut-task1
 Name : SUNKARA PURNA SAIVIVEK
 
 Company: MotionCut
